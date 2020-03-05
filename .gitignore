@@ -1,3 +1,6 @@
+#Azure functions
+azure-functions-core-tools/**
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +130,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.python_packages
+local.settings.json
+azure-functions-core-tools/.telemetry/20200305124102_fb45881101c243ebb93cf4f13e6d440c.trn

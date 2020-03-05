@@ -1,0 +1,29 @@
+{
+  "Die Lunches diese Woche waren": ["Prima", "So mittel", "Der soziale Tod"],
+  "Wertschätzung für meine Arbeit gab es": [
+    "Mehr als Genug",
+    "Punktuell!",
+    "Abwesenheit von Schimpfe ist doch Wertschätzung genug?"
+  ],
+  "Wie hoch war der Value der Daily Standups diese Woche": [
+    "Ich fand es super",
+    "Ok, aber inhaltlich optimierungswürdig",
+    "Noch ein überflüssiges Meeting"
+  ],
+  "Was hat mich diese Woche am Meisten angetrieben": [
+    "Team Spirit",
+    "Coole Themen",
+    "Wenig Termine",
+    "Antrieb kenne ich nur vom Auto"
+  ],
+  "Der Umgang miteinander war achtsam und wertschätzend": [
+    "Ja, war superduper",
+    "Besser als letzte Woche wenigstens",
+    "Wo ist der Coach"
+  ],
+  "Wir ziehen an einem Strang": [
+    "Ja, wie aus einem Guss",
+    "Paar Leute schon, aber insgesamt nicht",
+    "Wer ist wir?"
+  ]
+}

@@ -1,3 +1,9 @@
 {
-    "python.pythonPath": "/Users/jzakotnik/anaconda3/envs/telegram/bin/python"
+    "python.pythonPath": "/Users/jzakotnik/lab/bestesteambot/.venv/bin/python3",
+    "azureFunctions.deploySubpath": ".",
+    "azureFunctions.scmDoBuildDuringDeployment": true,
+    "azureFunctions.pythonVenv": ".venv",
+    "azureFunctions.projectLanguage": "Python",
+    "azureFunctions.projectRuntime": "~3",
+    "debug.internalConsoleOptions": "neverOpen"
 }
